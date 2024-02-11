@@ -1,0 +1,13 @@
+EXERCICE 1:
+. La JVM est une machine virtuelle pour exécuter du code Java,
+   tandis que le JDK est un kit de développement logiciel pour créer des applications Java,
+   comprenant la JVM, des outils de développement, et la bibliothèque Java.
+
+. Le rôle de la Java Virtual Machine (JVM) dans l'exécution du code Java 
+   est de fournir un environnement d'exécution pour les applications Java,
+   permettant l'indépendance matérielle et système d'exploitation grâce au bytecode.
+   La JVM gère automatiquement la mémoire et suit un cycle de vie spécifique pour les 
+   classes et interfaces dans la machine virtuelle.
+
+EXERCICE 3:
+ Nous avons utilisé des methodes statiques pour accéder directement à la méthode sans créer d'objet
